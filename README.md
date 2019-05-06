@@ -1,7 +1,7 @@
 # FISVDD
 This package contains the implementation of the Fast Incremental Support Vector Data Descrption (FISVDD) method, an algorithm for online training an SVDD model for outlier detection.
 
-The [paper](https://www.aaai.org/Papers/AAAI/2019/AAAI-JiangHansi.1553.pdf) was accepted and presented in the [AAAI-19](https://aaai.org/Conferences/AAAI-19/) conference.
+The [paper](https://arxiv.org/pdf/1709.00139.pdf) was accepted and presented in the [AAAI-19](https://aaai.org/Conferences/AAAI-19/) conference.
 
 ## Demo
 Training process:
