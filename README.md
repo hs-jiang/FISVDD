@@ -17,12 +17,14 @@ For non-commercial or academic use the source code in this package can be distri
 For other usage, please contact the authors. 
 
 ## References
-If you use this code, we request that you cite the following papers:
+If you use this code for your publications, please cite the following paper:
 
 ```
 @inproceedings{jiang2019fast,
   title={Fast Incremental SVDD Learning Algorithm with the Gaussian Kernel},
   author={Jiang, Hansi and Wang, Haoyu and Hu, Wenhao and Kakde, Deovrat and Chaudhuri, Arin},
-  booktitle={Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI-19)},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={33},
+  pages={3991--3998},
   year={2019}
 }
