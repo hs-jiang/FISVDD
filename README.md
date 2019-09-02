@@ -4,11 +4,15 @@ This package contains the implementation of the Fast Incremental Support Vector 
 The [paper](https://aaai.org/ojs/index.php/AAAI/article/view/4291) was accepted and presented in the [AAAI-19](https://aaai.org/Conferences/AAAI-19/) conference.
 
 ## Demo
-Original Data              |  Support Vectors        
+Original Data              |  Training Process        
 :-------------------------:|:-------------------------:
-![OD](https://github.com/hs-jiang/FISVDD/blob/master/FISVDD_demo/original_data.png)  |  ![SV](https://github.com/hs-jiang/FISVDD/blob/master/FISVDD_demo/support_vectors.png)
-
-
+<img src="https://github.com/hs-jiang/FISVDD/blob/master/FISVDD_demo/original_data.png" width="500">  |  <img src="https://github.com/hs-jiang/FISVDD/blob/master/FISVDD_demo/FISVDD_demo.gif" width="500">)
+Support Vectors            |  Final Result        
+:-------------------------:|:-------------------------:
+<img src="https://github.com/hs-jiang/FISVDD/blob/master/FISVDD_demo/support_vectors.png" width="500">  |  <img src="https://github.com/hs-jiang/FISVDD/blob/master/FISVDD_demo/final_result.png" width="500">)
+Objective Value Function                              |  
+:-------------------------:|
+<img src="https://github.com/hs-jiang/FISVDD/blob/master/FISVDD_demo/obv.png" width="700">
 
 ### Training process:
 <img src="https://github.com/hs-jiang/FISVDD/blob/master/FISVDD_demo/FISVDD_demo.gif" width="700">
