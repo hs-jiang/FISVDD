@@ -4,7 +4,7 @@ This package contains the implementation of the Fast Incremental Support Vector 
 The [paper](https://aaai.org/ojs/index.php/AAAI/article/view/4291) was accepted and presented in the [AAAI-19](https://aaai.org/Conferences/AAAI-19/) conference.
 
 ## Demo
-Original data:             |  Support Vectors:         
+Original Data              |  Support Vectors        
 :-------------------------:|:-------------------------:
 ![OD](https://github.com/hs-jiang/FISVDD/blob/master/FISVDD_demo/original_data.png)  |  ![SV](https://github.com/hs-jiang/FISVDD/blob/master/FISVDD_demo/support_vectors.png)
 
@@ -13,7 +13,10 @@ Original data:             |  Support Vectors:
 Training process:
 ![gif](https://github.com/hs-jiang/FISVDD/blob/master/FISVDD_demo/FISVDD_demo.gif)
 Final Result:
-![SAMPLE RESULT](https://github.com/hs-jiang/FISVDD/blob/master/FISVDD_demo/output.png)
+![SAMPLE RESULT](https://github.com/hs-jiang/FISVDD/blob/master/FISVDD_demo/final_result.png)
+Objective Function Value:
+![OBV](https://github.com/hs-jiang/FISVDD/blob/master/FISVDD_demo/obv.png)
+
 
 ## License
 There is currently a patent pending that covers the FISVDD method. 
