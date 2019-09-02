@@ -11,11 +11,14 @@ Original Data              |  Support Vectors
 
 
 Training process:
-![gif](https://github.com/hs-jiang/FISVDD/blob/master/FISVDD_demo/FISVDD_demo.gif?)
+![gif](https://github.com/hs-jiang/FISVDD/blob/master/FISVDD_demo/FISVDD_demo.gif)
+<img src="https://github.com/hs-jiang/FISVDD/blob/master/FISVDD_demo/FISVDD_demo.gif" width="500">
+
 Final Result:
-<img src="https://github.com/hs-jiang/FISVDD/blob/master/FISVDD_demo/final_result.png" width="400">
+<img src="https://github.com/hs-jiang/FISVDD/blob/master/FISVDD_demo/final_result.png" width="500">
+
 Objective Function Value:
-![OBV](https://github.com/hs-jiang/FISVDD/blob/master/FISVDD_demo/obv.png)
+<img src="https://github.com/hs-jiang/FISVDD/blob/master/FISVDD_demo/obv.png" width="500">
 
 
 ## License
