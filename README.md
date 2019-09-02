@@ -6,7 +6,7 @@ The [paper](https://aaai.org/ojs/index.php/AAAI/article/view/4291) was accepted 
 ## Demo
 Original data:             |  Training process:
 :-------------------------:|:-------------------------:
-![OD](https://github.com/hs-jiang/FISVDD/blob/master/FISVDD_demo/original_data.png | width=100)  |  ![gif](https://github.com/hs-jiang/FISVDD/blob/master/FISVDD_demo/FISVDD_demo.gif | width=100))
+![OD](https://github.com/hs-jiang/FISVDD/blob/master/FISVDD_demo/original_data.png =100 *100)  |  ![gif](https://github.com/hs-jiang/FISVDD/blob/master/FISVDD_demo/FISVDD_demo.gif =100 *100))
 
 
 
