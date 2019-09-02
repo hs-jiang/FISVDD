@@ -10,15 +10,14 @@ Original Data              |  Support Vectors
 
 
 
-###Training process:
-![gif](https://github.com/hs-jiang/FISVDD/blob/master/FISVDD_demo/FISVDD_demo.gif)
-<img src="https://github.com/hs-jiang/FISVDD/blob/master/FISVDD_demo/FISVDD_demo.gif" width="800">
+### Training process:
+<img src="https://github.com/hs-jiang/FISVDD/blob/master/FISVDD_demo/FISVDD_demo.gif" width="700">
 
-###Final Result:
-<img src="https://github.com/hs-jiang/FISVDD/blob/master/FISVDD_demo/final_result.png" width="800">
+### Final Result:
+<img src="https://github.com/hs-jiang/FISVDD/blob/master/FISVDD_demo/final_result.png" width="700">
 
-###Objective Function Value:
-<img src="https://github.com/hs-jiang/FISVDD/blob/master/FISVDD_demo/obv.png" width="800">
+### Objective Function Value:
+<img src="https://github.com/hs-jiang/FISVDD/blob/master/FISVDD_demo/obv.png" width="700">
 
 
 ## License
