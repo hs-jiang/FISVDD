@@ -26,15 +26,6 @@ Support Vectors            |  Final Result
 Objective Value Function                              |  
 <img src="https://github.com/hs-jiang/FISVDD/blob/master/FISVDD_demo/obv.png" width="500"> |
 
-### Training process:
-<img src="https://github.com/hs-jiang/FISVDD/blob/master/FISVDD_demo/FISVDD_demo.gif" width="700">
-
-### Final Result:
-<img src="https://github.com/hs-jiang/FISVDD/blob/master/FISVDD_demo/final_result.png" width="700">
-
-### Objective Function Value:
-<img src="https://github.com/hs-jiang/FISVDD/blob/master/FISVDD_demo/obv.png" width="700">
-
 
 ## License
 There is currently a patent pending that covers the FISVDD method. 
