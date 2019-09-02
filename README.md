@@ -4,6 +4,12 @@ This package contains the implementation of the Fast Incremental Support Vector 
 The [paper](https://aaai.org/ojs/index.php/AAAI/article/view/4291) was accepted and presented in the [AAAI-19](https://aaai.org/Conferences/AAAI-19/) conference.
 
 ## Demo
+Original data:             |  Training process:
+:-------------------------:|:-------------------------:
+![OD](https://github.com/hs-jiang/FISVDD/blob/master/FISVDD_demo/original_data.png)  |  ![gif](https://github.com/hs-jiang/FISVDD/blob/master/FISVDD_demo/FISVDD_demo.gif)
+
+
+
 Training process:
 ![gif](https://github.com/hs-jiang/FISVDD/blob/master/FISVDD_demo/FISVDD_demo.gif)
 Final Result:
