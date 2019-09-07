@@ -21,7 +21,7 @@ If you use this code for your publications, please cite the following paper:
 
 **Original Data**            | **Training Process**      
 :-------------------------:|:-------------------------:
-<img src="https://github.com/hs-jiang/FISVDD/blob/master/FISVDD_demo/original_data.png" width="500">  |  <img src="https://github.com/hs-jiang/FISVDD/blob/master/FISVDD_demo/FISVDD_demo.gif" width="500">)
+<img src="https://github.com/hs-jiang/FISVDD/blob/master/FISVDD_demo/original_data.png" width="500">  |  <img src="https://github.com/hs-jiang/FISVDD/blob/master/FISVDD_demo/FISVDD_demo.gif" width="500">
 **Support Vectors**            |  **Final Result**        
 <img src="https://github.com/hs-jiang/FISVDD/blob/master/FISVDD_demo/support_vectors.png" width="500">  |  <img src="https://github.com/hs-jiang/FISVDD/blob/master/FISVDD_demo/final_result.png" width="500">
 **Objective Function Value**                              |  
