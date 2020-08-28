@@ -58,6 +58,7 @@ class fisvdd():
                 if min(self.alpha) < 0:
                     backup = self.shrink(new_data)
                     for each in backup:
+                        each = np.array([each])
                         if self.score_fcn(each) > 0:
                             self.expand(each)
 
@@ -140,7 +141,7 @@ class fisvdd():
             self.alpha = np.sum(self.inv_A, axis=1)
             if min(self.alpha) > 0:
                 break
-        return [backup]
+        return backup
 
     def perm(self, A, ind):
 
