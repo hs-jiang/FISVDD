@@ -134,7 +134,6 @@ class fisvdd():
             data_out = self.sv[min_ind, :]
             backup.append(data_out)
             pInd = np.where(self.alpha > min(self.alpha))
-            np.concatenate((self.sv, new_data), axis=0)
             self.sv = self.sv[pInd]
             self.inv_A = self.perm(self.inv_A, min_ind)
             self.inv_A = self.down_inv(self.inv_A)
