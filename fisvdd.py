@@ -38,10 +38,10 @@ class fisvdd():
 
     def _print_res(self):
         print ("\nalpha -------")
-        print self.alpha
+        print (self.alpha)
 
         print ("\nsupport vector -------")
-        print self.sv
+        print (self.sv)
 
     def find_sv(self):
 
